@@ -9,5 +9,5 @@ Example :
 python3 GatherDataQuandl.py
 python3 GatheraMoreDataYahooFinance1.py
 
-To import Data to database we used mySQL Workbench to directly import the dataset.
+To import Data to database we load the SQL script in the Code folder.
 
